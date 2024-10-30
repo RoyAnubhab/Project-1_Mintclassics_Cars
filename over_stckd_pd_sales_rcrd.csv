@@ -1,0 +1,61 @@
+productCode,productName,warehouseCode,quantityInStock,total_sale,status,sales_percent
+S700_2466,"America West Airlines B757-200",a,9653,866,Overstocked,8.9713
+S32_2206,"1982 Ducati 996 R",a,9241,906,Overstocked,9.8041
+S12_2823,"2002 Suzuki XREO",a,9997,1007,Overstocked,10.0730
+S700_4002,"American Airlines: MD-11S",a,8820,1010,Overstocked,11.4512
+S18_3782,"1957 Vespa GS150",a,7689,959,Overstocked,12.4724
+S10_1678,"1969 Harley Davidson Ultimate Chopper",a,7933,991,Overstocked,12.4921
+S700_2834,"ATA: B757-300",a,7106,927,Overstocked,13.0453
+S24_3949,"Corsair F4U ( Bird Cage)",a,6812,939,Overstocked,13.7845
+S24_2360,"1982 Ducati 900 Monster",a,6840,947,Overstocked,13.8450
+S700_1691,"American Airlines: B767-300",a,5841,820,Overstocked,14.0387
+S24_1578,"1997 BMW R 1100 S",a,7003,998,Overstocked,14.2510
+S10_2016,"1996 Moto Guzzi 1100i",a,6625,954,Overstocked,14.4000
+S24_2841,"1900s Vintage Bi-Plane",a,5942,874,Overstocked,14.7089
+S10_4698,"2003 Harley-Davidson Eagle Drag Bike",a,5582,929,Overstocked,16.6428
+S72_1253,"Boeing X-32A JSF",a,4857,857,Overstocked,17.6446
+S18_1662,"1980s Black Hawk Helicopter",a,5330,948,Overstocked,17.7861
+S18_1984,"1995 Honda Civic",b,9772,836,Overstocked,8.5551
+S24_3432,"2002 Chevy Corvette",b,9446,825,Overstocked,8.7339
+S18_1589,"1965 Aston Martin DB5",b,9042,831,Overstocked,9.1904
+S18_3685,"1948 Porsche Type 356 Roadster",b,8990,852,Overstocked,9.4772
+S18_2870,"1999 Indy 500 Monte Carlo SS",b,8164,777,Overstocked,9.5174
+S12_3380,"1968 Dodge Charger",b,9123,903,Overstocked,9.8981
+S24_1628,"1966 Shelby Cobra 427 S/C",b,8197,814,Overstocked,9.9305
+S18_3482,"1976 Ford Gran Torino",b,9127,915,Overstocked,10.0252
+S18_1889,"1948 Porsche 356-A Roadster",b,8826,949,Overstocked,10.7523
+S24_2972,"1982 Lamborghini Diablo",b,7723,872,Overstocked,11.2909
+S24_3371,"1971 Alpine Renault 1600s",b,7995,945,Overstocked,11.8199
+S24_4620,"1961 Chevrolet Impala",b,7869,941,Overstocked,11.9583
+S10_1949,"1952 Alpine Renault 1300",b,7305,911,Overstocked,12.4709
+S10_4962,"1962 LanciaA Delta 16V",b,6791,868,Overstocked,12.7816
+S24_4048,"1992 Porsche Cayenne Turbo Silver",b,6582,844,Overstocked,12.8229
+S12_4675,"1969 Dodge Charger",b,7323,951,Overstocked,12.9865
+S12_3148,"1969 Corvair Monza",b,6906,933,Overstocked,13.5100
+S700_2824,"1982 Camaro Z28",b,6934,951,Overstocked,13.7150
+S24_3856,"1956 Porsche 356A Coupe",b,6600,1013,Overstocked,15.3485
+S12_3990,"1970 Plymouth Hemi Cuda",b,5663,875,Overstocked,15.4512
+S18_4027,"1970 Triumph Spitfire",b,5545,922,Overstocked,16.6276
+S24_3191,"1969 Chevrolet Camaro Z28",b,4695,822,Overstocked,17.5080
+S24_3151,"1912 Ford Model T Delivery Wagon",c,9173,881,Overstocked,9.6043
+S18_2325,"1932 Model A Ford J-Coupe",c,9354,912,Overstocked,9.7498
+S18_4522,"1904 Buick Runabout",c,8290,892,Overstocked,10.7600
+S18_1367,"1936 Mercedes-Benz 500K Special Roadster",c,8635,935,Overstocked,10.8280
+S24_3816,"1940 Ford Delivery Sedan",c,6621,771,Overstocked,11.6448
+S18_4409,"1932 Alfa Romeo 8C2300 Spider Sport",c,6553,794,Overstocked,12.1166
+S24_1937,"1939 Chevrolet Deluxe Coupe",c,7332,892,Overstocked,12.1658
+S18_1342,"1937 Lincoln Berline",c,8693,1060,Overstocked,12.1937
+S18_3320,"1917 Maxwell Touring Car",c,7913,971,Overstocked,12.2709
+S50_1341,"1930 Buick Marquette Phaeton",c,7062,935,Overstocked,13.2399
+S18_4668,"1939 Cadillac Limousine",c,6645,969,Overstocked,14.5824
+S18_3136,"18th Century Vintage Horse Carriage",c,5992,886,Overstocked,14.7864
+S18_2957,"1934 Ford V8 Coupe",c,5649,954,Overstocked,16.8879
+S18_3140,"1903 Ford Model A",c,3913,778,Overstocked,19.8824
+S32_3207,"1950's Chicago Surface Lines Streetcar",d,8601,907,Overstocked,10.5453
+S18_2319,"1964 Mercedes Tour Bus",d,8258,969,Overstocked,11.7341
+S18_3259,"Collectable Wooden Train",d,6450,799,Overstocked,12.3876
+S700_2610,"The USS Constitution Ship",d,7083,911,Overstocked,12.8618
+S700_3962,"The Queen Mary",d,5088,793,Overstocked,15.5857
+S12_4473,"1957 Chevy Pickup",d,6125,1023,Overstocked,16.7020
+S32_1268,"1980’s GM Manhattan Express",d,5099,870,Overstocked,17.0622
+S18_3029,"1999 Yamaha Speed Boat",d,4259,823,Overstocked,19.3238
